@@ -14,6 +14,6 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Installation
 
-1. Download `Eldritch.itermcolors`.
+1. Download [`Eldritch.itermcolors`](https://github.com/eldritch-theme/iterm2/blob/master/Eldritch.itermcolors).
 2. Import into iTerm2 (Settings -> Profile -> Colors -> Color Presets… -> Import…)
 3. Cthulhu ftagn!
